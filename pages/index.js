@@ -17,7 +17,7 @@ export default function Home() {
         >
           Frontend Mentor
         </a>
-        . Coded by <a href="#">Your Name Here</a>.
+        Coded by me.
       </div>
     </div>
   );
