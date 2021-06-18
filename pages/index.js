@@ -10,10 +10,6 @@ export default function Home() {
       <Head>
         <title>Frontend Mentor | Profile card component</title>
         <link rel="icon" href="/favicon-32x32.png"></link>
-        <link
-          href="https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap"
-          rel="stylesheet"
-        ></link>
       </Head>
 
       <div
