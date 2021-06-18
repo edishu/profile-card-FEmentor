@@ -8,7 +8,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ![](./desktop-shot.jpg)
 
 ### Mobile-Screenshot
-![](./mobile-shot.jpg)
+![](./mobile-shot.JPG)
 
 ### Links
 - [Live site](https://profile-card-nine-rust.vercel.app/)
