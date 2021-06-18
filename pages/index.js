@@ -9,11 +9,11 @@ export default function Home() {
     >
       <Head>
         <title>Frontend Mentor | Profile card component</title>
-        <link rel="icon" href="/favicon-32x32.png" />
+        <link rel="icon" href="/favicon-32x32.png"></link>
         <link
           href="https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap"
           rel="stylesheet"
-        />
+        ></link>
       </Head>
 
       <div
@@ -37,7 +37,7 @@ export default function Home() {
         <div className="h-1/4 flex justify-around">
           <div className="flex flex-col justify-center items-center">
             <p className="font-bold">80K</p>
-            <path className="text-xs text-gray-500">Followers</path>
+            <p className="text-xs text-gray-500">Followers</p>
           </div>
           <div className="flex flex-col justify-center items-center">
             <p className="font-bold">803K</p>
