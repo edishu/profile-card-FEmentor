@@ -2,9 +2,11 @@ import Head from "next/head";
 
 export default function Home() {
   return (
-    <div className="min-h-screen min-w-screen 
+    <div
+      className="min-h-screen min-w-screen 
     bg-primary bg-no-repeat bg-custom bg-pattern 
-    flex justify-center items-center">
+    flex justify-center items-center"
+    >
       <Head>
         <title>Frontend Mentor | Profile card component</title>
         <link rel="icon" href="/favicon-32x32.png" />
@@ -14,10 +16,18 @@ export default function Home() {
         />
       </Head>
 
-      <div className="w-1/4 h-96 bg-gray-100 rounded-xl divide-y">
+      <div
+        className="w-1/4 h-96 rounded-xl divide-y 
+       bg-gray-100 bg-pattern-card bg-repeat-x 
+       text-gray-700"
+      >
         <div className="h-3/4 flex flex-col justify-center items-center">
-          <img className="rounded-full" src="/image-victor.jpg" alt="Victor" />
-          <div className="mt-8 text-center">
+          <img
+            className="mt-16 rounded-full border-4 border-gray-100"
+            src="/image-victor.jpg"
+            alt="Victor"
+          />
+          <div className="mt-6 text-center">
             <span className="text-lg font-bold mr-2">Victor Crest</span>
             <span className="text-lg font-normal text-gray-500">26</span>
             <p className="text-sm text-gray-500">London</p>
