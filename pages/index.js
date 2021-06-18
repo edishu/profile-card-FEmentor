@@ -17,7 +17,7 @@ export default function Home() {
       </Head>
 
       <div
-        className="w-1/4 h-96 rounded-xl divide-y 
+        className="w-10/12 sm:w-8/12 md:w-6/12 lg:w-3/12 h-96 rounded-xl divide-y 
        bg-gray-100 bg-pattern-card bg-repeat-x 
        text-gray-700"
       >
